@@ -1,0 +1,8 @@
+name = "Reap"
+uuid = "e703d48a-8f5c-41d1-b9a8-5e27068272ab"
+authors = ["Sebastian Dalleiger <sdalleig@mpi-inf.mpg.de>"]
+version = "0.1.0"
+
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"
